@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ff5c58;
+}
+
+#projects {
+  background-color: #ff5c58;
+}
+
+section {
+  scroll-margin-top: 5rem;
+}
+
+.bg-navbar {
+  background-color: #b61919;
+}
+.alamat {
+  text-align: center;
+}
+.card-header {
+  text-align: center;
+}
